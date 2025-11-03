@@ -4,7 +4,6 @@ import {
   Text,
   StyleSheet,
   Image,
-  Platform,
   Modal,
   TextInput,
   FlatList,
